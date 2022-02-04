@@ -1,2 +1,15 @@
-# Stranger_Telegram_Bot
-Making a Bot That Is Able To Message To Telegram Users As a Stranger!
+# Template For Telegram Bot
+
+Template to create a telegram bot in python
+
+
+## How To Run
+First add 'src' to 'PYTHONPATH':
+'''
+export PYTHONPATH=${PWD}
+'''
+
+Then Run:
+'''
+python src/bot.py
+'''
